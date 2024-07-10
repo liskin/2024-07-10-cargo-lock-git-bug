@@ -133,7 +133,7 @@ dependencies = [
 [[package]]
 name = "tracing-core"
 version = "0.1.32"
-source = "git+https://github.com/tokio-rs/tracing?branch=v0.1.x#8b7a1dde69797b33ecfa20da71e72eb5e61f0b25"
+source = "git+https://github.com/tokio-rs/tracing?branch=v0.1.x#6d00d7d9f72dc6797138a1062bc33073afbad5a1"
 dependencies = [
  "once_cell",
  "valuable",
